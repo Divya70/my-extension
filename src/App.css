@@ -1,5 +1,16 @@
-.App {
-  text-align: center;
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&family=Montserrat:wght@100&family=Poppins:wght@100;300;400&family=Recursive:wght@600&family=Satisfy&family=Ubuntu:ital,wght@1,300&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Ubuntu", sans-serif;
 }
-
-
+.quotes-cont {
+  color: #fff;
+  font-size: 1.3rem;
+  font-weight: 500;
+  position: absolute;
+  bottom: 5%;
+  left: 20%;
+}

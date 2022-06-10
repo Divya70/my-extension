@@ -1,0 +1,25 @@
+.viewpage-image{
+      background-image: url("https://source.unsplash.com/random/?nature/1366×768");
+      height: 100vh;
+      width: 100vw;
+      background-repeat: no-repeat;
+      background-size: cover;
+      position: absolute;
+}
+.display-current-time{
+      color: #fff;
+      /* font-size: 2rem; */
+      position: relative;
+      top: 30%;
+      text-align: center;
+      font-weight: 900;
+}
+.curr-time{
+      font-size: 5rem;
+      font-weight: 700;
+      font-family: sans-serif;
+}
+.welcome-user{
+      font-size: 2.5rem;
+}
+
