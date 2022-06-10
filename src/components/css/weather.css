@@ -1,0 +1,26 @@
+.weather-cont{
+      position:absolute;
+      top: 5%;
+      right: 5%;
+      color: #fff;
+      font-size: 1rem;
+      font-weight:600 ;
+      background-color: black;
+      opacity: 0.5;
+      width: 10rem;
+      height: 9rem;
+      text-align: center;
+}
+.city-temp{
+      margin-top: 1rem;
+}
+.temp-degree{
+      font-size: 2rem;
+}
+.temp-des{
+      margin-right: 4rem;
+}
+.humidity{
+      margin-top: 0.5rem;
+      font-size: 1.2rem;
+}

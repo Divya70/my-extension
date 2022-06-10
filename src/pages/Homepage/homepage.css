@@ -1,0 +1,7 @@
+.homepage-image{
+      background-image: url("https://source.unsplash.com/random/?nature/1366×768");
+      height: 100vh;
+      width: 100vw;
+      background-repeat: no-repeat;
+      background-size: cover;
+}

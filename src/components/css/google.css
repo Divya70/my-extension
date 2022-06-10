@@ -1,0 +1,31 @@
+.google-cont{
+      position: absolute;
+      top: 5%;
+      margin-left: 3rem;
+      display: flex;
+      align-items: baseline;
+      height: fit-content;
+}
+.search-input{
+      border: none;
+      outline: none;
+      border-bottom: 2px solid #fff;
+      background: none;
+      text-align: center;
+      color:#fff;
+      font-size: 1.2rem;
+
+}
+.search-input::placeholder{
+      color: #fff;
+      font-weight: 700;
+      padding: 8px;
+}
+.search-icon{
+      height: auto;
+      width: auto;
+      background-color: transparent;
+      border: none;
+      color: #fff;
+
+}
