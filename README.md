@@ -1,70 +1,154 @@
-# Getting Started with Create React App
+<div id="top"></div>
+<!--
+*** Thanks for checking out my Project. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Don't forget to give the project a star!
+*** Thanks again! Now go create something AMAZING! :D
+-->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+<!-- PROJECT SHIELDS -->
 
-### `npm start`
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/divya-namdev-115a1619a/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  
+![image](![image](https://user-images.githubusercontent.com/66566437/173032619-e0a65c4b-c804-4979-8343-0f63c3eecd31.png)
+)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+  <h3 align="center">Pretty Cool's Tab</h3>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  <p align="center">
+    An awesome Google Chrome extension .
+    <br />
+    <a href="https://pretty-cool-extension.vercel.app/"><strong>Explore Extension »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/Divya70/my-extension">View Doc</a>
+    ·
+    <a href="https://github.com/Divya70/my-extension/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Divya70/my-extension/pulls">Request Feature</a>
+  </p>
+</div>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>Awesome UI</li>
+    <li>Quotes Suggesting</li>
+    <li>Todo</li>
+    <li>Google Search</li>
+    <li>Time</li>
+    <li>weather display</li>
+  </ol>
+</details>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![image](![image](https://user-images.githubusercontent.com/66566437/173033418-ad5e610c-cc7c-4893-aa11-4506fa9abc68.png)
+)
+![image](![image](https://user-images.githubusercontent.com/66566437/173033565-55dadf52-d25a-4d91-a4d9-7bfde76d5b6a.png)
+)
+![image](![image](https://user-images.githubusercontent.com/66566437/173033799-6586778e-39fc-46c1-b44e-d0642d2422f8.png)
+)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+<br/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+There are numerous excellent Extensions. However, I couldn't find one that isn't boring. So i made this pretty cool's tab.
 
-### Making a Progressive Web App
+Here's why:
+* Your time should be focused on only something that deserves. A project that solves a problem and helps others.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+Of course, no extension will serve all demands since your needs may be different. So We'll be adding more features in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have reviewed to expanding this Extension!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### Built With
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* [HTML](https://www.w3schools.com/html/)
+* [CSS](https://www.w3schools.com/css/)
+* [React.js](https://reactjs.org/)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+
+
+### Prerequisites
+
+1- Working Internet is all you need
+
+
+
+
+
+<!-- ROADMAP -->
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+
+
+
+
+<!-- HOW TO INSTALL-->
+
+## How to Install ?
+
+Just Click on Link in BIO, and install it.
+volllaaaaa, your are done just open any new tab.
+
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Divya Namdev - [@my_Linkedin](https://www.linkedin.com/in/divya-namdev-115a1619a/) - divyanamdev8795@gmail.com
+
+Project Link: [Pretty Cool's Tab](https://github.com/Divya70/my-extension)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+
