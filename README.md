@@ -8,18 +8,11 @@
 -->
 
 
-
-<!-- PROJECT SHIELDS -->
-
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/divya-namdev-115a1619a/)
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   
-![image](![image](https://user-images.githubusercontent.com/66566437/173032619-e0a65c4b-c804-4979-8343-0f63c3eecd31.png)
+![image](https://user-images.githubusercontent.com/66566437/173035870-aa93746a-5991-4dba-a8a7-7395ce164929.png)
 )
 
 
@@ -61,12 +54,10 @@
 
 
 
-![image](![image](https://user-images.githubusercontent.com/66566437/173033418-ad5e610c-cc7c-4893-aa11-4506fa9abc68.png)
-)
-![image](![image](https://user-images.githubusercontent.com/66566437/173033565-55dadf52-d25a-4d91-a4d9-7bfde76d5b6a.png)
-)
-![image](![image](https://user-images.githubusercontent.com/66566437/173033799-6586778e-39fc-46c1-b44e-d0642d2422f8.png)
-)
+![image](https://user-images.githubusercontent.com/66566437/173035870-aa93746a-5991-4dba-a8a7-7395ce164929.png)
+![image](https://user-images.githubusercontent.com/66566437/173036456-9b986aa4-27ae-40b2-b89e-bd2875f04d4e.png)
+![image](https://user-images.githubusercontent.com/66566437/173036550-046d6e9d-7dab-4cd7-899a-297294a047cb.png)
+
 
 
 
